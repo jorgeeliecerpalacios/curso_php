@@ -1,0 +1,22 @@
+.jumbotron {
+    color: black;
+    margin: 2px;
+    background-color: rgb(71, 70, 70);
+    height: 50px;
+}
+
+th {
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: grey;
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {}
